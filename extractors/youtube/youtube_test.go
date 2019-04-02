@@ -3,9 +3,9 @@ package youtube
 import (
 	"testing"
 
-	"github.com/iawia002/annie/config"
-	"github.com/iawia002/annie/downloader"
-	"github.com/iawia002/annie/test"
+	"../../config"
+	"../../downloader"
+	"../../test"
 )
 
 func TestYoutube(t *testing.T) {

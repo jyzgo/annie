@@ -10,9 +10,9 @@ import (
 	"time"
 
 	"github.com/cheggaaa/pb"
-	"github.com/iawia002/annie/config"
-	"github.com/iawia002/annie/request"
-	"github.com/iawia002/annie/utils"
+	"../config"
+	"../request"
+	"../utils"
 )
 
 func progressBar(size int64) *pb.ProgressBar {

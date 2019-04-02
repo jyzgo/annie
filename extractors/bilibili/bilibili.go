@@ -7,11 +7,11 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/iawia002/annie/config"
-	"github.com/iawia002/annie/downloader"
-	"github.com/iawia002/annie/parser"
-	"github.com/iawia002/annie/request"
-	"github.com/iawia002/annie/utils"
+	"../../config"
+	"../../downloader"
+	"../../parser"
+	"../../request"
+	"../../utils"
 )
 
 const (

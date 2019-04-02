@@ -5,10 +5,10 @@ import (
 	"errors"
 	"strings"
 
-	"github.com/iawia002/annie/downloader"
-	"github.com/iawia002/annie/parser"
-	"github.com/iawia002/annie/request"
-	"github.com/iawia002/annie/utils"
+	"../../downloader"
+	"../../parser"
+	"../../request"
+	"../../utils"
 )
 
 type imageList struct {

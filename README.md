@@ -7,10 +7,10 @@
   <a href="https://travis-ci.com/iawia002/annie">
     <img src="https://img.shields.io/travis/iawia002/annie.svg?style=flat-square" alt="Build Status">
   </a>
-  <a href="https://goreportcard.com/report/github.com/iawia002/annie">
-    <img src="https://goreportcard.com/badge/github.com/iawia002/annie?style=flat-square" alt="Go Report Card">
+  <a href="https://goreportcard.com/report/">
+    <img src="https://goreportcard.com/badge/?style=flat-square" alt="Go Report Card">
   </a>
-  <a href="https://github.com/iawia002/annie/releases">
+  <a href="https:///releases">
     <img src="https://img.shields.io/github/release/iawia002/annie.svg?style=flat-square" alt="GitHub release">
   </a>
   <a href="https://formulae.brew.sh/formula/annie">
@@ -61,10 +61,10 @@ The following dependencies are required and must be installed separately.
 
 ### Install via `go get`
 
-To install Annie, use `go get`, or download the binary file from [Releases](https://github.com/iawia002/annie/releases) page.
+To install Annie, use `go get`, or download the binary file from [Releases](https:///releases) page.
 
 ```bash
-$ go get github.com/iawia002/annie
+$ go get 
 ```
 
 ### Homebrew (macOS only)
@@ -618,7 +618,7 @@ Thanks for [JetBrains](https://www.jetbrains.com/?from=annie) for the wonderful 
 
 ## Authors
 
-Code with ❤️ by [iawia002](https://github.com/iawia002) and lovely [contributors](https://github.com/iawia002/annie/graphs/contributors)
+Code with ❤️ by [iawia002](https://github.com/iawia002) and lovely [contributors](https:///graphs/contributors)
 
 
 ## Similar projects

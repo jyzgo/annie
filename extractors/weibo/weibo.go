@@ -5,10 +5,10 @@ import (
 	netURL "net/url"
 	"strings"
 
-	"github.com/iawia002/annie/downloader"
-	"github.com/iawia002/annie/parser"
-	"github.com/iawia002/annie/request"
-	"github.com/iawia002/annie/utils"
+	"../../downloader"
+	"../../parser"
+	"../../request"
+	"../../utils"
 )
 
 func downloadWeiboTV(url string) ([]downloader.Data, error) {

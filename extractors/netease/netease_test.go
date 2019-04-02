@@ -3,8 +3,8 @@ package netease
 import (
 	"testing"
 
-	"github.com/iawia002/annie/config"
-	"github.com/iawia002/annie/test"
+	"../../config"
+	"../../test"
 )
 
 func TestDownload(t *testing.T) {

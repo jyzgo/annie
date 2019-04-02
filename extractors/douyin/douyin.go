@@ -1,9 +1,9 @@
 package douyin
 
 import (
-	"github.com/iawia002/annie/downloader"
-	"github.com/iawia002/annie/request"
-	"github.com/iawia002/annie/utils"
+	"../../downloader"
+	"../../request"
+	"../../utils"
 )
 
 // Extract is the main function for extracting data
